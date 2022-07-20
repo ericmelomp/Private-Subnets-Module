@@ -1,5 +1,5 @@
 resource "aws_subnet" "private_subnets" {
-  #create 3 private subnets in 3 AZs at once
+  #It calculates the AZs you set before and create one subnet for each of them.
   count             = length(var.private_azs)
   vpc_id            = var.vpc_id
   availability_zone = var.private_azs[count.index]

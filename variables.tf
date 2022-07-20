@@ -1,4 +1,4 @@
-#create private subnets in 3 AZs
+#Defining the AZs that I want to create the subnets (private-subnets)
 variable "private_azs" {
   type = list(string)
   default = ["us-east-1a", "us-east-1b", "us-east-1c"]
@@ -6,5 +6,5 @@ variable "private_azs" {
 
 variable "vpc_id" {
   type = string
-  default = "vpc-07846064f27eb2140"
+  default = "?"
 }
