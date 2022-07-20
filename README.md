@@ -4,8 +4,8 @@
 
 <img src="https://www.datocms-assets.com/58478/1640019487-og-image.png">
 <div style="display: inline_block">
-    <img align="center" alt="Eric-TF" img alt="GitHub issues" src="https://img.shields.io/github/issues/ericmelomp/Multiple-EC2-Config">
-    <img align="center" alt="Eric-TF" img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/ericmelomp/Multiple-EC2-Config?label=commits">
+    <img align="center" alt="Eric-TF" img alt="GitHub issues" src="https://img.shields.io/github/issues/ericmelomp/Private-Subnets-Module">
+    <img align="center" alt="Eric-TF" img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/ericmelomp/Private-Subnets-Module?label=commits">
 </div>
 
 <div><br>
